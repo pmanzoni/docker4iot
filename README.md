@@ -5,7 +5,7 @@
 * [Exercise 1: containerised MQTT](https://hackmd.io/@iotmic/exday1)
 
 ## Handling and visualisation of data
-* Using the TIG Stack for the processing and visualisation of data (30’+30’+15’=75’ )
+* Using the TIG Stack for the processing and visualisation of data
 * InfluxDB and Python
 * Orchestrating execution using "Compose"
 * ML for IoT: TinyML
