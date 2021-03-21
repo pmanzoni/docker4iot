@@ -1,6 +1,6 @@
 # Introduction to Docker and its use for Rapid Development of microservices for the IoT
 
-Introduction to Docker for IoT
+Introduction to Docker ([slides](https://github.com/pmanzoni/docker4iot/blob/main/slides/docker_v1.pdf))
 * The basics + building an image
 * Exercise 1: containerised MQTT
 
