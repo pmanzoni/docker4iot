@@ -1,14 +1,14 @@
 # our base image
-FROM alpine:3.5
+FROM alpine
 
 # Install python and pip
-RUN apk add --update py2-pip
+RUN apk add --update py3-pip
 
 # upgrade pip
 RUN pip install --upgrade pip
 
 # install Python modules needed by the Python app
-RUN pip install -U Flask
+RUN pip3 install -U Flask
 
 # copy files required for the app to run
 COPY app.py /usr/src/app/
@@ -18,4 +18,4 @@ COPY templates/index.html /usr/src/app/templates/
 EXPOSE 5000
 
 # run the application
-CMD ["python", "/usr/src/app/app.py"]
+CMD ["python3", "/usr/src/app/app.py"]
