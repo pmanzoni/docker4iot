@@ -9,7 +9,7 @@
 #define PDM_SOUND_GAIN    255    // sound gain of PDM mic
 #define PDM_BUFFER_SIZE   256    // buffer size of PDM mic
 
-#define SAMPLE_THRESHOLD  200    // RMS threshold to trigger sampling
+#define SAMPLE_THRESHOLD  150    // RMS threshold to trigger sampling
 #define FEATURE_SIZE      32     // sampling size of one voice instance
 #define SAMPLE_DELAY      20     // delay time (ms) between sampling
 
