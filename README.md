@@ -6,8 +6,8 @@
 
 ## 2. Handling and visualisation of data
 * [Using the TIG Stack for the processing and visualisation of data](https://hackmd.io/@iotmic/tig)
-* [InfluxDB and Python](https://hackmd.io/@iotmic/tig#InfluxDB-and-Python)
-* [Orchestrating execution using "Compose"](https://hackmd.io/@iotmic/tig#Orchestrating-execution-using-“Compose”)
+    * [InfluxDB and Python](https://hackmd.io/@iotmic/tig#InfluxDB-and-Python)
+    * [Orchestrating execution using "Compose"](https://hackmd.io/@iotmic/tig#Orchestrating-execution-using-“Compose”)
 * [ML for IoT: TinyML](https://hackmd.io/@iotmic/tinyml1010)
 
 ## 3. Networking and Mesh routing for IoT
