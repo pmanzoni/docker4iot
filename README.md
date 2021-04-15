@@ -11,6 +11,7 @@
 * [ML for IoT: TinyML](https://hackmd.io/@iotmic/tinyml1010)
 
 ## 3. Networking and Mesh routing for IoT
-* Networking with standalone containers
-* Using swarm
-* Mesh Networks: the case of OpenThread by Google
+* [Networking with standalone containers](https://hackmd.io/@iotmic/networking)
+* [Using Docker Swarm to manage multiple containers](https://hackmd.io/@iotmic/swarm)
+* [Mesh Networks: the case of OpenThread by Google](https://hackmd.io/@iotmic/HkDVNrdfO)
+    * [Intro about Mesh and Openthread](https://github.com/pmanzoni/docker4iot/blob/main/slides/openthread.pdf)
